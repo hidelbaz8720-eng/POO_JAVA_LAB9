@@ -78,8 +78,8 @@ exception_java/
 <img width="1366" height="768" alt="ex3" src="https://github.com/user-attachments/assets/eaf6c13d-af04-4ca0-923d-cf3ea7f7bc34" />
 
 
-## ✅ Résultat final
+##  Résultat final
 
 Les différents exercices permettent de maîtriser la gestion des exceptions en Java, la lecture des fichiers, les exceptions personnalisées et la journalisation des erreurs.
 
-**TP réalisé dans le cadre du cours : Fondamentaux et Concepts Avancés de la Programmation Java – MLIAEdu.**
+**TP réalisé dans le cadre du cours : Fondamentaux et Concepts Avancés de la Programmation Java .**
